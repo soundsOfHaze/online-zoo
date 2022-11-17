@@ -1,0 +1,1043 @@
+@media screen and (max-width: 1599px) {
+
+  .flowerOne {
+    display: none;
+  }
+
+  .images {
+    justify-content: center;
+    row-gap: 100px;
+  }
+
+  .arrLeft,
+  .arrRight {
+    transform: translate(0, -50%);
+    top: 43%;
+  }
+
+  .ggpet{
+    height: 1050px;
+  }
+
+  .arrLeft {
+    left: 325px;
+  }
+
+  .arrRight {
+    right: 325px;
+  }
+
+  .flowerLeft {
+    height: 202px;
+    width: 193px;
+    left: 0px;
+  }
+
+  .flowerRight {
+    width: 241px;
+    height: 180px;
+  }
+
+  .leav {
+    width: 170px;
+    height: 260px;
+    bottom: -60px;
+  }
+
+  .ggpet{
+    /* height: auto; */
+  }
+}
+
+@media screen and (max-width:1200px) {
+
+  .wrapper{
+    width: 940px;
+  }
+
+  header {
+    position: relative;
+    z-index: 1;
+  }
+
+  .navigation{
+    justify-content: unset;
+  }
+
+  .designedBy{
+    margin-left: 215px;
+  }
+
+  .bamboo img {
+    width: 455px;
+    height: 408px;
+  }
+
+  nav>ul>li {
+    display: inline-block;
+    margin-right: 44px;
+  }
+
+  .ellipse {
+    width: 365px;
+    height: 365px;
+    top: -10px;
+    right: 90px;
+    position: absolute;
+    z-index: 0;
+  }
+
+  .watchAnimal h1 {
+    font-size: 85px;
+    margin-top: 42px;
+    width: 400px;
+    line-height: 63px;
+  }
+
+  .btn {
+    margin-top: 40px;
+    margin-bottom: 47px;
+  }
+
+  .gg {
+    width: 295px;
+    height: 295px;
+  }
+
+  .backstage {
+    position: relative;
+    padding-bottom: 140px;
+    padding-top: 100px;
+  }
+
+  .backstage .wrapper{
+    padding: 0;
+  }
+
+  .bamboo {
+    display: flex;
+    align-items: center;
+  }
+
+  .textBackstage {
+    margin-left: 31px;
+  }
+
+  .btnPets {
+    margin-bottom: 140px;
+  }
+
+  .pickAndFeed {
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+
+  .pickAndFeed .wrapper {
+    padding-top: 30px;
+  }
+
+  .pickAndFeed h3,
+  .pickAndFeed p {
+    margin-left: 50px;
+    margin-bottom: 10px;
+  }
+
+  .pickAndFeed h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .secondP {
+    width: 823px;
+    margin-top: 10px;
+  }
+
+  .pets .wrapper{
+  width: 940px;
+  padding: 10px;
+    
+  }
+
+  .card{
+    height:354px
+  }
+
+  .images{
+    width: 940px;
+    row-gap: 90px;
+    height: auto;
+  }
+  .ggpet{
+    height: auto;
+  }
+
+  .arrLeft, .arrRight {
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(249, 128, 75, 1);
+    transform: translate(0 , -50%);
+    top: 37.5%;
+    cursor: pointer;
+    z-index: 100;
+  }
+  
+  .arrLeft{
+    left: 37%;
+  }
+  
+  .arrRight{
+    right: 35%;
+  }
+
+  .pickAndFeed h2 {
+    margin-top: 30px;
+  }
+
+  .hiwCard p {
+    margin-top: 30px;
+    margin-left: 0px;
+  }
+
+  .testimoSection {
+    padding-top: 100px;
+    padding-bottom: 140px;
+  }
+
+  .testimomialContent {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .gradWrapper {
+    min-width: 295px;
+  }
+
+  .gradWrapper:last-of-type {
+    display: none;
+  }
+
+  .rangeOrange {
+    width: 390px;
+    margin-bottom: 50px;
+  }
+
+  .list > li{
+    display: inline-block;
+    margin-right:44px ;
+    }
+
+    .list{
+      margin-left: 144px;
+    }
+
+
+  .socials > ul > li {
+    width: auto;
+    margin-bottom: 11px;
+  }
+
+}
+
+
+
+@media screen and (max-width: 939px) {
+
+
+  .popUpContentTest{
+    display: unset;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+     background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+    z-index: 111;
+    display: none;
+  }
+  .popUpContentTest .exit{
+    position: absolute;
+    background: rgba(241, 243, 242, 1);
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+
+  .popUpContentTest .testimonial{
+    width: 290px;
+    height: 400px;    
+  }
+  .popUpContentTest .gradWrapper{
+    width: auto;
+    height: auto;
+    cursor: unset;    
+  }
+
+  .popUpContentTest .textContentT{
+    width: auto;
+    height: auto;    
+  }
+
+  .popTestimomial{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .popUpTes{
+    width: 300px;
+    position: relative;
+  }
+
+  .popUpContent{
+    display: unset;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+    z-index: 11;
+    display: none;
+  }
+
+  .pops{
+    width: 100%;
+    background-color: #fff;
+    z-index: 100;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    transition:transform 0.2 linear;
+    overflow: hidden;
+  }
+
+  .pops ul{
+    margin: 0;
+    padding: 0;
+  }
+
+  .pops a{
+    text-decoration: none;
+    margin-bottom: 15px; 
+    color: rgba(51, 59, 65, 1);
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .popUp{
+    width: 65px;
+    height: 40px;
+    border: 1px solid rgba(254, 144, 19, 1);
+    text-align: center;
+  }
+
+  .popUp h1{
+    margin: 0;
+    font-size:  15px; 
+    font-weight: 400;
+    line-height: 18px;
+    color:rgba(254, 144, 19, 1);
+    margin: 0;
+    padding: 0;
+  } 
+
+
+  .orangeBamboo{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 28px;
+    left: 20px;
+  }
+
+  .exit{
+    position: absolute;
+    top: 10px;
+    right: 30px;
+  }
+
+  .closeX{
+    width: 25px;
+    cursor: pointer;
+  }
+
+
+  .wrapper{
+    width: 600px;
+  }
+
+  header{
+    position: fixed;
+    z-index: 10;
+    /* padding: 0; */
+  }
+
+  .navigation{
+    justify-content: space-between;
+  }
+  
+  .navigation ul,
+  .designedBy {
+    display: none;
+  }
+
+  .logo {
+    border: none;
+    width: 47px;
+    height: 30px;
+    margin: 2px 2px 0px 0px;
+  }
+
+  .logo h1 {
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    line-height: 14px;
+  }
+
+  .hbb img {
+    bottom: 5px;
+    left: 3px;
+    height: 13px;
+  }
+
+  .burger {
+    width: 18px;
+    height: 2px;
+    background-color: white;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .burger::after {
+    content: "";
+    width: 18px;
+    height: 2px;
+    background-color: white;
+    top: 4px;
+    position: absolute;
+  }
+
+  .burger::before {
+    content: "";
+    width: 18px;
+    height: 2px;
+    background-color: white;
+    top: -4px;
+    position: absolute;
+  }
+
+  .ellipse {
+    width: 237px;
+    height: 237px;
+    top: 10px;
+    right: 70px;
+  }
+
+  .watchAnimal{
+    padding-top: 34px;
+  }
+
+  .watchAnimal .wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+
+  .watchAnimal h1 {
+    font-size: 54px;
+    line-height: 40px;
+    width: 255px;
+    margin-top: 48px;
+    margin-bottom: 87px;
+  }
+
+  .btn {
+    position: absolute;
+    left: 0px;
+    bottom: 0;
+  }
+
+  .bamboo {
+    display: none;
+  }
+
+  .flowerOne {
+    display: block;
+    width: 115px;
+    height: 476px;
+  }
+
+  .textBackstage {
+    width: 495px;
+    margin-left: 0;
+  }
+
+  .backstage {
+    position: relative;
+    padding-bottom: 80px;
+    padding-top: 60px;
+  }
+
+  .backstage h1 {
+    font-size: 48px;
+    line-height: 58px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .backstage h2 {
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  .backstage p {
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0;
+  }
+
+  .card:nth-of-type(5) {
+    display: none
+  }
+
+  .card:nth-of-type(6) {
+    display: none
+  }
+  .pets .wrapper{
+    width: 610px;
+    padding: 10px;  
+    }
+
+    .images{
+      width: 600px;
+      padding: 10px;
+    }
+
+  .images {
+    row-gap: 92px;
+    column-gap: 30px;
+  }
+
+  .gg {
+    width: 285px;
+    height: 285px;
+  }
+
+
+  .arrLeft,
+  .arrRight {
+    transform: translate(0, -50%);
+    top: 40%;
+  }
+
+  .arrLeft {
+    left: 253px;
+  }
+
+  .arrRight {
+    right: 233px;
+  }
+
+  .flowerRight {
+    width: 175px;
+    height: 131px;
+  }
+
+  .flowerLeft {
+    width: 192px;
+    height: 202px;
+  }
+
+  .arrow {
+    display: none;
+  }
+
+  .feedImages {
+    position: relative;
+    column-gap: 20px;
+  }
+
+  .btnPets{
+    margin-top: 60px;
+    margin-bottom: 100px;
+  }
+
+  .bgFeed{
+    width: 600px;
+  }
+
+  .pickAndFeed {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .pickAndFeed .wrapper {
+    padding: 10px 0px;
+  }
+
+  .pickAndFeed h3,
+  .pickAndFeed p {
+    margin-left: 0px;
+    margin-bottom: 10px;
+  }
+
+  .pickAndFeed h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .secondP {
+    width: 600px;
+  }
+
+  .pickAndFeed h2 {
+    margin-top: 30px;
+  }
+
+  .hiwCard {
+    margin-top: 0px;
+  }
+
+  .hiwCard p {
+    margin-top: 30px;
+    margin-left: 00px;
+  }
+
+  .btnFeedNow {
+    margin-top: 40px;
+  }
+
+  .greenArrow {
+    display: block;
+  }
+
+  .arrG {
+    position: absolute;
+    top: -17px;
+    left: 342px;
+  }
+
+  .arrGr {
+    position: absolute;
+    top: -17px;
+    left: 135px;
+  }
+
+  .ht{
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 20px;
+  }
+
+  .testimoSection {
+    padding-top: 60px;
+    padding-bottom: 80px;
+  }
+
+  .testimoSection .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .testimonial {
+    width: 600px;
+    height: 110px;
+    overflow: hidden;
+  }
+
+  .testimomialContent {
+    flex-direction: column;
+    /* height: 300px; */
+  }
+
+  .gradWrapper {
+    width: 595px;
+    height: 110px;
+    cursor: pointer;
+  }
+
+  .gradWrapper:nth-child(n+4){
+    display: none;
+  }
+
+  .textContentT {
+    padding: 0;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 18px;
+    width: 565px;
+  }
+
+  .rangeOrange {
+    display: none;
+  }
+
+  .btnLeave {
+    margin-top: 40px;
+  }
+
+  .leav{
+    width: 130px;
+    height: auto;
+    right: -10px;
+    bottom: -73px;
+  }
+
+  footer{
+    padding: 12px 0;
+  }
+
+  footer .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 82px;
+    height: 52px;
+    border: 1px solid white;
+    border-radius: 2px;
+    margin: 14px 63px 14px 0;
+    position: relative;
+    color: rgba(255, 255, 255, 1);
+  }
+
+  .btnDonate{
+    margin-top: 32px;
+  }
+
+
+  .social{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 67px;
+  }
+
+  .socials{
+    position: absolute;
+    top: -208px;
+    right:0px;
+    height: auto;
+    row-gap: 20px;
+  }
+
+  .subscribe{
+    display: none;
+  }
+
+  .inv{
+    display:none
+  }
+
+ .list{
+  margin: 0;
+ }
+
+ .list > li {
+margin-right: 33px;
+ }
+
+}
+
+
+@media screen and (max-width: 619px) {
+  .wrapper{
+    width: 300px;
+  }
+ 
+  .ellipse{
+    width: 120px;
+    height: 120px;
+    top: 22px;
+    right: 35px;
+  }
+
+  .watchAnimal h1{
+    font-size: 28px;
+    line-height: 21px;
+    width: 128px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 45px;
+  }
+
+  .watchAnimal {
+    padding-top: 32px;
+    position: relative;
+  }
+
+  .btn{
+    position: absolute;
+    bottom: -122px;
+  }
+
+  .backstage .wrapper{
+    padding: 0;
+  }
+
+  .backstage{
+    padding-top:104px ;
+    overflow: hidden;
+    padding-bottom: 40px;
+  }
+
+  .flowerOne{
+    height: 217px;
+    width: auto;
+    right: -43px;
+    top: 38px;
+    z-index: 0;
+  }
+
+  .backstage h1{
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    }
+    
+    .textBackstage{
+      margin: 0;
+    }
+
+    .backstage h2{
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    }
+    
+    .backstage p{
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0;
+    width: 300px;
+    }
+
+    .pets .wrapper{
+      padding-top: 2px;
+    }
+
+    .arrLeft, .arrRight{
+      display: none
+    }
+
+    .pets{
+      overflow: hidden;
+    }
+
+    .gg{
+      width: 285px;
+      height: 285px;
+    }
+
+    .images{
+      flex-direction: column;
+      row-gap:20px ;
+      justify-content: center;
+    }
+
+    .btnPets{
+      margin-top: 20px;
+      margin-bottom: 60px;
+    }
+
+    .flowerLeft{
+      height: 72px;
+      width: auto;
+    }
+
+    .flowerRight{
+      height: 71px;
+      width: auto;
+      right: -20px;
+      bottom: -10px;
+    }
+
+    .bold{
+      display: none;
+    }
+    
+    .secondP{
+      display: none;
+    }
+
+    .pickAndFeed .wrapper {
+      padding-top: 20px;
+    }
+
+    .pickAndFeed h1{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 400;
+    }
+    
+    .pickAndFeed h2{
+      font-size: 24px;
+      line-height: 28px;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .pickAndFeed h3{
+      font-size: 18px;
+      line-height: 21px;
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .feedImages{
+      flex-direction: column;
+      row-gap: 10px;
+      margin-top: 20px;
+    }
+
+    .hiwCard p{
+      margin-top: 10px;
+      margin-bottom: 0px; ;
+      height: 44px;
+    }
+
+    .hiwCard p :last-of-type{
+    margin-bottom: 0;
+    }
+
+    .arrG{
+      rotate: 80deg;
+      top: 195px;
+      left: 142px;
+    }
+    .arrGr{
+      rotate: 80deg;
+      top: 440px;
+      left: 142px;
+    }
+
+    .btnFeedNow{
+      margin-top: 40px;
+      margin-bottom: 40px;
+      padding: 0;
+    }
+
+    .testimoSection{
+      padding-top: 30px;
+      padding-bottom: 60px;
+      overflow: hidden;
+    }
+
+    .testimonial {
+      width: 299px;
+      height: 110px;
+      overflow: hidden;
+    }
+  
+    .gradWrapper {
+      width: 299px;
+      height: 110px;
+    }
+  
+  
+    .textContentT {
+      padding: 0;
+      height: auto;
+      margin-top: 10px;
+      margin-left: 18px;
+      width: 279px;
+    }
+
+    .leav{
+      height: 95px;
+      width: auto;
+      right: 0;
+      bottom: -30px;
+    }
+
+    .btnLeave{
+      width: 240px;
+    }
+
+    footer{
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+
+   footer .footerlog{
+      border: none;
+      width: 100%;
+      height: auto;
+      text-align: center;
+    }
+
+    footer br{
+      display: none;
+    }
+
+    footer .bb{
+      left: 158px;
+      top: -9px;
+    }
+
+    .socials ul li{
+      display: inline-block;
+      width: auto;
+      margin-left: 0;
+      margin-right: 15px;
+    }
+
+    .socials{
+      position: absolute;
+      top:-141px;
+      left: 54px;
+    }
+
+    .btnDonate{
+      margin-top: 85px;
+      padding: 0;
+    }
+
+    .social{
+      flex-direction: column-reverse;
+      margin-top: 30px;
+      margin-left: 0;
+      padding: 0;
+    }
+
+    .designed{
+      margin-bottom: 30px;
+    }
+
+    .list li:last-of-type{
+      margin-right: 0;
+    }
+
+    .list li{
+      margin-right: 25px;
+    }
+
+    .list {
+      align-self: baseline;
+      margin:0 auto ;
+      padding: 0;
+    }
+
+    
+  }
